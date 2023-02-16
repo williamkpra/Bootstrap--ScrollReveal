@@ -1,10 +1,22 @@
 body{
   font-family: 'Oxygen', sans-serif;
+
+  background: linear-gradient(45deg, black,blue);
+  color: white;
+
+}
+header{
+  margin-top: 75px;
 }
 
+
+
 #info{
- background: black;
+  text-align: center;
+  color: white;
+
 }
+
 
 #catalogo{
   display: flex;
